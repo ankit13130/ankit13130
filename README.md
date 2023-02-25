@@ -1,11 +1,15 @@
 [![Header](https://github.com/ankit13130/ankit13130/blob/main/assets/banner.png?raw=true "Header")](https://github.com/ankit13130)
-<h1 align="center">Hey Folks <img src="./assets/wave.gif" width="30">, I'm Ankit Gupta</h1>
+
 <h3 align="center">A passionate frontend developer with knowledge of server side technologies like Servlet</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit13130&label=Profile%20views&color=0e75b6&style=flat" alt="ankit13130" /> </p>
-
-## About Me <img align="center" src="./assets/about-me.gif" width="30">
+# Howdy-do Folks <img src="./assets/wave.gif" width="30">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit13130&label=Profile%20views&color=00FFFB&style=flat" alt="ankit13130" /></p>
 <img align="right" src="./assets/me.gif" width="400" alt="Coding">
+<p>
+  My name is Ankit Gupta.<br>
+  I'm a Frontend Developer with a backend knowledge on Servlet.<br>
+  I'm from India, living in Bhopal and currently studying Computer Science.
+</p>
 
 - 🌱 I’m currently learning **React, JIRA, and about tools used in development**
 
@@ -13,8 +17,8 @@
 
 - 📫 How to reach me **guptaankit13130@gmail.com**
 
-- ⚡ Fun fact **Stress Free mostly**
-<br><br><br><br>
+- ⚡ Fun fact **Stress Free Mostly**
+<br><br>
 
 ## Social <img align="center" src="./assets/social.gif" width="30">
 [![Twitter](https://img.shields.io/badge/Twitter-%231BA5FF.svg?logo=Twitter&logoColor=white)](https://twitter.com/ankitgupta13130)
