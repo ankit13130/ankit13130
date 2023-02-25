@@ -16,6 +16,7 @@
 <br><br><br><br>
 
 ## Social <img align="center" src="./assets/social.gif" width="30">
+[![Twitter](https://img.shields.io/badge/Twitter-%231BA5FF.svg?logo=Twitter&logoColor=white)](https://https://twitter.com/ankitgupta13130)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_ankit_here___) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankit-gupta-8548b9212) 
 
