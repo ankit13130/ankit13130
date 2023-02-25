@@ -1,3 +1,4 @@
+[![Header](https://github.com/ankit13130/ankit13130/blob/main/assets/banner.png?raw=true "Header")](https://github.com/ankit13130)
 <h1 align="center">Hey Folks <img src="./assets/wave.gif" width="30">, I'm Ankit Gupta</h1>
 <h3 align="center">A passionate frontend developer with knowledge of server side technologies like Servlet</h3>
 
