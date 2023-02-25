@@ -2,9 +2,10 @@
 <h3 align="center">A passionate frontend developer with knowledge of server side technologies like Servlet</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit13130&label=Profile%20views&color=0e75b6&style=flat" alt="ankit13130" /> </p>
-<img align="right" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="400" alt="Ccoding">
 
 # About Me 💫
+<img align="right" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="400" alt="Ccoding">
+
 - 🌱 I’m currently learning **React, JIRA, and about tools used in development**
 
 - 💬 Ask me about **Java, Servlet, JSP, JDBC, Web Technologies...**
@@ -12,6 +13,7 @@
 - 📫 How to reach me **guptaankit13130@gmail.com**
 
 - ⚡ Fun fact **Stress Free mostly**
+<br><br><br><br>
 
 # Socials 🌐
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/www.instagram.com/its_ankit_here___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ankit-gupta-8548b9212) 
@@ -21,8 +23,13 @@
 
 # GitHub Stats 📊
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankit13130&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=ankit13130&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ankit13130&theme=chartreuse-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ankit13130&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankit13130&theme=tokyonight&hide_border=false)<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ankit13130&theme=chartreuse-dark&hide_border=false)<br>
 
 # Random Dev Quote ✍️
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<!-- # Extras 📝
+  <details>
+  <summary>Click to expand!</summary> -->
